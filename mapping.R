@@ -112,4 +112,4 @@ map %>% addCircleMarkers(data=d,~d$Longitude,~d$Latitude,weight=3,color=qpal(d$Y
                          popup=~paste(paste(d$Year,d$Case..,sep=" #"),paste("lat:",d$Latitude),
                                       paste("long:",d$Longitude),sep="<br/>"))
 
-#test a diff??
+1+1
